@@ -1,0 +1,5 @@
+gsf17	8
+gsf17	2
+gsf17	1
+gsf17	3
+gsf17	10
